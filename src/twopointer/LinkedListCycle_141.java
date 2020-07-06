@@ -25,6 +25,15 @@ package twopointer;
  * 你能用 O(1)（即，常量）内存解决此问题吗？
  */
 public class LinkedListCycle_141 {
+    class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) {
+            val = x;
+            next = null;
+        }
+    }
+
     public static void main(String[] args) {
         LinkedListCycle_141 solution = new LinkedListCycle_141();
         int[] arr = { 1, 2 };
@@ -91,14 +100,5 @@ public class LinkedListCycle_141 {
             p.next = q;
         }
         return head;
-    }
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-        next = null;
     }
 }
