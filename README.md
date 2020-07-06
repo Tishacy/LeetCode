@@ -11,4 +11,4 @@ LeetCode刷题记录，记录代码和做题思路。
     - 88\. 合并两个有序数组: [`MergeSortedArray_88.java`](src/twopointer/MergeSortedArray_88.java)
     - 141\. 环形链表: [`LinkedListCycle_141.java`](src/twopointer/LinkedListCycle_141.java)
     - 392\. 判断子序列：[`IsSubsequence_392.java`](src/twopointer/IsSubsequence_392.java)
-    - 
+    - 524\. 通过删除字母匹配到字典里最长单词：[`LongestWordInDictionaryThroughDeleting_524.java`](src/twopointer/LongestWordInDictionaryThroughDeleting_524.java)
