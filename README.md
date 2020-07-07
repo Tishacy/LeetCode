@@ -13,4 +13,12 @@ LeetCode刷题记录，记录代码和做题思路。
     - 392\. 判断子序列：[`IsSubsequence_392.java`](src/twopointer/IsSubsequence_392.java)
     - 524\. 通过删除字母匹配到字典里最长单词：[`LongestWordInDictionaryThroughDeleting_524.java`](src/twopointer/LongestWordInDictionaryThroughDeleting_524.java)
 - 排序
+    - 经典排序算法：[`Sort.java`](src/sort/Sort.java)
+        - 冒泡排序: `bubbleSort`
+        - 选择排序: `selectSort`
+        - 插入排序: `insertSort`
+        - 归并排序: `mergeSort`
+        - 快速排序: `quickSort`
+        - 堆排序: `heapSort`
+        - 计数排序: `countSort`
     - 215\. 数组中的第K个最大元素：[`KthLargestElementInAnArray_215.java`](src/sort/KthLargestElementInAnArray_215.java)
