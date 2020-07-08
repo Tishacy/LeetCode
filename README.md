@@ -10,10 +10,10 @@ LeetCode刷题记录，记录代码和做题思路。
     - 680\. 验证回文字符串 Ⅱ: [`ValidPalindromeII_680.java`](src/twopointer/ValidPalindromeII_680.java)
     - 88\. 合并两个有序数组: [`MergeSortedArray_88.java`](src/twopointer/MergeSortedArray_88.java)
     - 141\. 环形链表: [`LinkedListCycle_141.java`](src/twopointer/LinkedListCycle_141.java)
-    - 392\. 判断子序列：[`IsSubsequence_392.java`](src/twopointer/IsSubsequence_392.java)
-    - 524\. 通过删除字母匹配到字典里最长单词：[`LongestWordInDictionaryThroughDeleting_524.java`](src/twopointer/LongestWordInDictionaryThroughDeleting_524.java)
+    - 392\. 判断子序列: [`IsSubsequence_392.java`](src/twopointer/IsSubsequence_392.java)
+    - 524\. 通过删除字母匹配到字典里最长单词: [`LongestWordInDictionaryThroughDeleting_524.java`](src/twopointer/LongestWordInDictionaryThroughDeleting_524.java)
 - 排序
-    - 经典排序算法：[`Sort.java`](src/sort/Sort.java)
+    - 经典排序算法: [`Sort.java`](src/sort/Sort.java)
         - 冒泡排序: `bubbleSort`
         - 选择排序: `selectSort`
         - 插入排序: `insertSort`
@@ -21,4 +21,6 @@ LeetCode刷题记录，记录代码和做题思路。
         - 快速排序: `quickSort`
         - 堆排序: `heapSort`
         - 计数排序: `countSort`
-    - 215\. 数组中的第K个最大元素：[`KthLargestElementInAnArray_215.java`](src/sort/KthLargestElementInAnArray_215.java)
+    - 215\. 数组中的第K个最大元素: [`KthLargestElementInAnArray_215.java`](src/sort/KthLargestElementInAnArray_215.java)
+    - 347\. 前 K 个高频元素: [`TopKFrequentElements_347.java`](src/sort/TopKFrequentElements_347.java)
+    

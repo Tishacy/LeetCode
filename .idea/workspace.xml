@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/TopKFrequentElements_347.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/Sort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +45,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Sort">
-    <configuration name="IsSubsequence_392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointer.IsSubsequence_392" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="twopointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TopKFrequentElements_347">
     <configuration name="KthLargestElementInAnArray_215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.KthLargestElementInAnArray_215" />
       <module name="LeetCode" />
@@ -113,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TopKFrequentElements_347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.TopKFrequentElements_347" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopKFrequentElements_347" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.KthLargestElementInAnArray_215" />
         <item itemvalue="Application.LongestWordInDictionaryThroughDeleting_524" />
         <item itemvalue="Application.LinkedListCycle_141" />
-        <item itemvalue="Application.IsSubsequence_392" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +140,7 @@
       <workItem from="1593705566977" duration="6004000" />
       <workItem from="1593792973799" duration="6141000" />
       <workItem from="1594008657769" duration="1158000" />
-      <workItem from="1594092915423" duration="17374000" />
+      <workItem from="1594092915423" duration="24923000" />
     </task>
     <servers />
   </component>
@@ -161,22 +164,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="396" height="452" key="GridCell.Tab.0.bottom" timestamp="1594123974813">
+    <state width="396" height="742" key="GridCell.Tab.0.bottom" timestamp="1594182570089">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="452" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594123974813" />
-    <state width="396" height="452" key="GridCell.Tab.0.center" timestamp="1594123974811">
+    <state width="396" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594182570089" />
+    <state width="396" height="742" key="GridCell.Tab.0.center" timestamp="1594182570087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="452" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594123974811" />
-    <state width="396" height="452" key="GridCell.Tab.0.left" timestamp="1594123974810">
+    <state width="396" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594182570087" />
+    <state width="396" height="742" key="GridCell.Tab.0.left" timestamp="1594182570087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="452" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594123974810" />
-    <state width="396" height="452" key="GridCell.Tab.0.right" timestamp="1594123974812">
+    <state width="396" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594182570087" />
+    <state width="396" height="742" key="GridCell.Tab.0.right" timestamp="1594182570088">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="452" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594123974812" />
+    <state width="396" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594182570088" />
     <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594100482657">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -193,10 +196,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594100482657" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1594108666045">
+    <state x="221" y="63" key="SettingsEditor" timestamp="1594177320429">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594108666045" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594177320429" />
     <state x="507" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593747002364">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -205,10 +208,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1593747006639" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594123888737">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594181707158">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="449" y="219" width="782" height="779" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594009220428" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1594123888737" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1594181707158" />
   </component>
 </project>
