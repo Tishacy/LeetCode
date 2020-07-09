@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/greedy/NonOverlappingIntervals_435.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/greedy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/greedy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/AssignCookies_455.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/AssignCookies_455.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/NonOverlappingIntervals_435.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/NonOverlappingIntervals_435.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1594008657769" duration="1158000" />
       <workItem from="1594092915423" duration="28868000" />
       <workItem from="1594224122887" duration="2559000" />
-      <workItem from="1594262562848" duration="12831000" />
+      <workItem from="1594262562848" duration="13612000" />
     </task>
     <servers />
   </component>
