@@ -24,5 +24,6 @@ LeetCode刷题记录，记录代码和做题思路。
     - 215\. 数组中的第K个最大元素: [`KthLargestElementInAnArray_215.java`](src/sort/KthLargestElementInAnArray_215.java)
     - 347\. 前 K 个高频元素: [`TopKFrequentElements_347.java`](src/sort/TopKFrequentElements_347.java)
     - 451\. 根据字符出现频率排序: [`SortCharactersByFrequency_451.java`](src/sort/SortCharactersByFrequency_451.java)
+    - 75\. 颜色分类: [`SortColors_75.java`](src/sort/SortColors_75.java)
 
     

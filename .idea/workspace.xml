@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/SortCharactersByFrequency_451.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/SortCharactersByFrequency_451.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/SortColors_75.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/sort/SortCharactersByFrequency_451.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/SortCharactersByFrequency_451.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,26 +50,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.SortCharactersByFrequency_451">
+  <component name="RunManager" selected="Application.SortColors_75">
     <configuration name="KthLargestElementInAnArray_215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.KthLargestElementInAnArray_215" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestWordInDictionaryThroughDeleting_524" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointer.LongestWordInDictionaryThroughDeleting_524" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="twopointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortColors_75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SortColors_75" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TopKFrequentElements_347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.TopKFrequentElements_347" />
       <module name="LeetCode" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortColors_75" />
         <item itemvalue="Application.SortCharactersByFrequency_451" />
         <item itemvalue="Application.TopKFrequentElements_347" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.KthLargestElementInAnArray_215" />
-        <item itemvalue="Application.LongestWordInDictionaryThroughDeleting_524" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,8 @@
       <workItem from="1593705566977" duration="6004000" />
       <workItem from="1593792973799" duration="6141000" />
       <workItem from="1594008657769" duration="1158000" />
-      <workItem from="1594092915423" duration="28205000" />
+      <workItem from="1594092915423" duration="28868000" />
+      <workItem from="1594224122887" duration="1396000" />
     </task>
     <servers />
   </component>
@@ -164,38 +165,38 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="396" height="742" key="GridCell.Tab.0.bottom" timestamp="1594184748968">
+    <state width="396" height="742" key="GridCell.Tab.0.bottom" timestamp="1594260833906">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594184748968" />
-    <state width="396" height="742" key="GridCell.Tab.0.center" timestamp="1594184748967">
+    <state width="396" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594260833906" />
+    <state width="396" height="742" key="GridCell.Tab.0.center" timestamp="1594260833905">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594184748967" />
-    <state width="396" height="742" key="GridCell.Tab.0.left" timestamp="1594184748967">
+    <state width="396" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594260833905" />
+    <state width="396" height="742" key="GridCell.Tab.0.left" timestamp="1594260833905">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594184748967" />
-    <state width="396" height="742" key="GridCell.Tab.0.right" timestamp="1594184748968">
+    <state width="396" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594260833905" />
+    <state width="396" height="742" key="GridCell.Tab.0.right" timestamp="1594260833906">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594184748968" />
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594100482657">
+    <state width="396" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594260833906" />
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594100482657" />
-    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1594100482656">
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
+    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1594100482656" />
-    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1594100482656">
+    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
+    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1594100482656" />
-    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1594100482657">
+    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594100482657" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594177320429">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
