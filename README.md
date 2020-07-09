@@ -3,7 +3,7 @@
 LeetCode刷题记录，记录代码和做题思路。
 
 ## 算法
-- 双指针
+- [双指针](src/twopointer)
     - 167\. 两数之和 II - 输入有序数组: [`TwoSumII_167.java`](src/twopointer/TwoSumII_167.java) 
     - 633\. 平方数之和: [`SumOfSquareNumbers_633.java`](src/twopointer/SumOfSquareNumbers_633.java)
     - 345\. 反转字符串中的元音字母: [`ReverseVowelsofAString_345.java`](src/twopointer/ReverseVowelsofAString_345.java)
@@ -12,7 +12,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 141\. 环形链表: [`LinkedListCycle_141.java`](src/twopointer/LinkedListCycle_141.java)
     - 392\. 判断子序列: [`IsSubsequence_392.java`](src/twopointer/IsSubsequence_392.java)
     - 524\. 通过删除字母匹配到字典里最长单词: [`LongestWordInDictionaryThroughDeleting_524.java`](src/twopointer/LongestWordInDictionaryThroughDeleting_524.java)
-- 排序
+- [排序](src/sort)
     - 经典排序算法: [`Sort.java`](src/sort/Sort.java)
         - 冒泡排序: `bubbleSort`
         - 选择排序: `selectSort`
@@ -25,5 +25,5 @@ LeetCode刷题记录，记录代码和做题思路。
     - 347\. 前 K 个高频元素: [`TopKFrequentElements_347.java`](src/sort/TopKFrequentElements_347.java)
     - 451\. 根据字符出现频率排序: [`SortCharactersByFrequency_451.java`](src/sort/SortCharactersByFrequency_451.java)
     - 75\. 颜色分类: [`SortColors_75.java`](src/sort/SortColors_75.java)
-
+- [贪心算法](src/greedy)
     
