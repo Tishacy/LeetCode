@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/greedy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/SortColors_75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/SortColors_75.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Application.SortColors_75">
     <configuration name="KthLargestElementInAnArray_215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -139,7 +142,8 @@
       <workItem from="1593792973799" duration="6141000" />
       <workItem from="1594008657769" duration="1158000" />
       <workItem from="1594092915423" duration="28868000" />
-      <workItem from="1594224122887" duration="1545000" />
+      <workItem from="1594224122887" duration="2559000" />
+      <workItem from="1594262562848" duration="4459000" />
     </task>
     <servers />
   </component>
@@ -163,22 +167,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="396" height="742" key="GridCell.Tab.0.bottom" timestamp="1594260833906">
+    <state width="396" height="742" key="GridCell.Tab.0.bottom" timestamp="1594262538695">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594260833906" />
-    <state width="396" height="742" key="GridCell.Tab.0.center" timestamp="1594260833905">
+    <state width="396" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594262538695" />
+    <state width="396" height="742" key="GridCell.Tab.0.center" timestamp="1594262538695">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594260833905" />
-    <state width="396" height="742" key="GridCell.Tab.0.left" timestamp="1594260833905">
+    <state width="396" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594262538695" />
+    <state width="396" height="742" key="GridCell.Tab.0.left" timestamp="1594262538694">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594260833905" />
-    <state width="396" height="742" key="GridCell.Tab.0.right" timestamp="1594260833906">
+    <state width="396" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594262538694" />
+    <state width="396" height="742" key="GridCell.Tab.0.right" timestamp="1594262538695">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="396" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594260833906" />
+    <state width="396" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594262538695" />
     <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -195,14 +199,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1594177320429">
+    <state x="221" y="63" key="SettingsEditor" timestamp="1594263927598">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594177320429" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594263927598" />
     <state x="507" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593747002364">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="507" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1593747002364" />
+    <state x="416" y="188" width="596" height="522" key="find.popup" timestamp="1594266599557">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="416" y="188" width="596" height="522" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1594266599557" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1593747006639">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
