@@ -60,10 +60,15 @@ public class SortColors_75 {
         while (cur <= right) {
             if (nums[cur] == 0) {
                 swap(nums, cur++, left++);
+                // 因为 cur 指针是从左边开始遍历的，因此 cur 左边的位置是处理过的区域
+                // 即使这里发生了交换，也是处理过的区域的内部交换，因此可以直接 cur++
             } else if (nums[cur] == 1) {
                 cur++;
             } else {
                 swap(nums, cur, right--);
+                // right 以后的位置是没有处理过的区域，因此发生交换后，无法保证交换到
+                // cur 位置的数字究竟应该在哪个区域，因此不能 cur++，需要重新判断此时
+                // 的 cur 位置的数字应该在哪个区域
             }
         }
     }
