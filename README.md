@@ -30,4 +30,6 @@ LeetCode刷题记录，记录代码和做题思路。
     - 455\. 分发饼干: [`AssignCookies_455.java`](src/greedy/AssignCookies_455.java)
     - 435\. 无重叠区间: [`NonOverlappingIntervals_435.java`](src/greedy/NonOverlappingIntervals_435.java)
     - 452\. 用最少数量的箭引爆气球: [`MinimumNumberOfArrowsToBurstBalloons_452.java`](src/greedy/MinimumNumberOfArrowsToBurstBalloons_452.java)
-    - 406\. 根据身高重建队列: [`QueueReconstructionByHeight_406.java`](QueueReconstructionByHeight_406.java)
+    - 406\. 根据身高重建队列: [`QueueReconstructionByHeight_406.java`](src/greedy/QueueReconstructionByHeight_406.java)
+    - 121\. 买卖股票的最佳时机: [`BestTimeToBuyAndSellStock_121.java`](src/greedy/BestTimeToBuyAndSellStock_121.java)
+    
