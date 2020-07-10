@@ -15,3 +15,4 @@
     - 455\. 分发饼干: [`AssignCookies_455.java`](AssignCookies_455.java)
     - 435\. 无重叠区间: [`NonOverlappingIntervals_435.java`](NonOverlappingIntervals_435.java)
     - 452\. 用最少数量的箭引爆气球: [`MinimumNumberOfArrowsToBurstBalloons_452.java`](MinimumNumberOfArrowsToBurstBalloons_452.java)
+    - 406\. 根据身高重建队列: [`QueueReconstructionByHeight_406.java`](QueueReconstructionByHeight_406.java)
