@@ -36,4 +36,5 @@ LeetCode刷题记录，记录代码和做题思路。
     - 122\. 买卖股票的最佳时机 II: [`BestTimeToBuyAndSellStockII_122.java`](src/greedy/BestTimeToBuyAndSellStockII_122.java)
     - 605\. 种花问题: [`CanPlaceFlowers_605.java`](src/greedy/CanPlaceFlowers_605.java)
     - 860\. 柠檬水找零: [`LemonadeChange_860.java`](src/greedy/LemonadeChange_860.java)
+    - 874\. 模拟行走机器人: [`WalkingRobotSimulation_874.java`](src/greedy/WalkingRobotSimulation_874.java)
     
