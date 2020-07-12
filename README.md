@@ -27,6 +27,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 451\. 根据字符出现频率排序: [`SortCharactersByFrequency_451.java`](src/sort/SortCharactersByFrequency_451.java)
     - 75\. 颜色分类: [`SortColors_75.java`](src/sort/SortColors_75.java)
 - [贪心算法](src/greedy)
+    - 经典贪心问题: [`Greedy.java`](src/greedy/Greedy.java)
     - 455\. 分发饼干: [`AssignCookies_455.java`](src/greedy/AssignCookies_455.java)
     - 435\. 无重叠区间: [`NonOverlappingIntervals_435.java`](src/greedy/NonOverlappingIntervals_435.java)
     - 452\. 用最少数量的箭引爆气球: [`MinimumNumberOfArrowsToBurstBalloons_452.java`](src/greedy/MinimumNumberOfArrowsToBurstBalloons_452.java)
@@ -34,4 +35,5 @@ LeetCode刷题记录，记录代码和做题思路。
     - 121\. 买卖股票的最佳时机: [`BestTimeToBuyAndSellStock_121.java`](src/greedy/BestTimeToBuyAndSellStock_121.java)
     - 122\. 买卖股票的最佳时机 II: [`BestTimeToBuyAndSellStockII_122.java`](src/greedy/BestTimeToBuyAndSellStockII_122.java)
     - 605\. 种花问题: [`CanPlaceFlowers_605.java`](src/greedy/CanPlaceFlowers_605.java)
+    - 860\. 柠檬水找零: [`LemonadeChange_860.java`](src/greedy/LemonadeChange_860.java)
     
