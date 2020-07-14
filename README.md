@@ -39,4 +39,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 874\. 模拟行走机器人: 
         - OOP: [`WalkingRobotSimulationOOP_874.java`](src/greedy/WalkingRobotSimulationOOP_874.java)
         - 面向过程: [`WalkingRobotSimulation_874.java`](src/greedy/WalkingRobotSimulation_874.java)
+    - 665\. 非递减数列: [`NonDecreasingArray_665.java`](src/greedy/NonDecreasingArray_665.java)
+    
+    
     
