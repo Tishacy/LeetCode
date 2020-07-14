@@ -38,116 +38,45 @@ public class WalkingRobotSimulation_874 {
         WalkingRobotSimulation_874 solution = new WalkingRobotSimulation_874();
         int[] commands = {4,-1,4,-2,4};
         int[][] obstacles = {{2, 4}};
-        System.out.println("所经过的最大欧式距离的平方: " + solution.robotSim(commands, obstacles));
+        int res = solution.robotSim(commands, obstacles);
+        System.out.println(res);
     }
 
+    /**
+     * 面向过程方式进行机器人行走模拟
+     * @param commands
+     * @param obstacles
+     * @return
+     */
     public int robotSim(int[] commands, int[][] obstacles) {
         Set<String> obstacleSet = new HashSet<>();
         for (int[] obstacle : obstacles) {
             obstacleSet.add(Arrays.toString(obstacle));
         }
 
-        int maxSquaredDistance = 0;
-        Robot robot = new Robot(new int[] {0, 0}, 0);
-        for (int i=0; i<commands.length; i++) {
-            if (commands[i] == -1 || commands[i] == -2) {
-                robot.changeDirection(commands[i]);
+        int[] pos = {0, 0};
+        int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+        int curDirIndex = 0;
+        int res = 0;
+        for (int command : commands) {
+            if (command == -1) {
+                curDirIndex = (curDirIndex + 1) % 4;
+            } else if (command == -2) {
+                curDirIndex = (curDirIndex + 3) % 4;
             } else {
-                robot.walk(commands[i], obstacleSet);
-                maxSquaredDistance = Math.max(maxSquaredDistance, robot.calcSquaredDistance());
-            }
-        }
-        return maxSquaredDistance;
-    }
-
-    class Robot {
-        private int[] startPos;
-        private int[] curPos;
-        private final int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-        private int curDirectionIndex = 0;
-        private final int RIGHT = -1;
-        private final int LEFT = -2;
-
-        public Robot() {}
-        public Robot(int[] pos, int dirIndex) {
-            this.setStartPos(pos);
-            this.setCurPos(pos);
-            this.setCurDirectionIndex(dirIndex);
-        }
-
-        public int[] getStartPos() {
-            return startPos;
-        }
-
-        public int[] getCurPos() {
-            return curPos;
-        }
-
-        public int getCurDirectionIndex() {
-            return curDirectionIndex;
-        }
-
-        public void setStartPos(int[] startPos) {
-            this.startPos = Arrays.copyOf(startPos, 2);
-        }
-
-        public void setCurPos(int[] curPos) {
-            this.curPos = curPos;
-        }
-
-        public void setCurDirectionIndex(int curDirectionIndex) {
-            this.curDirectionIndex = curDirectionIndex;
-        }
-
-        /**
-         * 转向
-         * @param code 转向: -1 为右转, -2 为左转
-         */
-        public void changeDirection(int code) {
-            if (code == LEFT) {
-                this.setCurDirectionIndex((curDirectionIndex + 3) % 4);
-            } else if (code == RIGHT) {
-                this.setCurDirectionIndex((curDirectionIndex + 1) % 4);
-            } else {
-                return;
-            }
-        }
-
-        /**
-         * 行走
-         * @param step 行走步数
-         * @param obstacleSet 障碍集合，遇到障碍就停下
-         */
-        public void walk(int step, Set<String> obstacleSet) {
-            int[] increment = this.directions[this.curDirectionIndex];
-            for (int i=0; i<step; i++) {
-                if (this.encounterObstacle(increment, obstacleSet)) {
-                    System.out.println("遇到了障碍, 当前位置: " + Arrays.toString(this.curPos));
-                    break;
+                for (int i=0; i<command; i++) {
+                    int[] temp = new int[2];
+                    temp[0] = pos[0] + directions[curDirIndex][0];
+                    temp[1] = pos[1] + directions[curDirIndex][1];
+                    if (obstacleSet.contains(Arrays.toString(temp))) {
+                        break;
+                    }
+                    pos[0] = temp[0];
+                    pos[1] = temp[1];
+                    res = Math.max(res, (int)(Math.pow(pos[0], 2) + Math.pow(pos[1], 2)));
                 }
-                this.curPos[0] += increment[0];
-                this.curPos[1] += increment[1];
-                System.out.println("当前位置: " + Arrays.toString(this.curPos) + ", 当前方向: " + this.curDirectionIndex);
             }
         }
-
-        /**
-         * 某个方向上是否遇到障碍
-         * @param direction 方向
-         * @param obstacleSet 障碍集合
-         * @return boolean 是否遇到阻碍
-         */
-        public boolean encounterObstacle(int[] direction, Set<String> obstacleSet) {
-            int[] nextPos = {this.curPos[0] + direction[0], this.curPos[1] + direction[1]};
-            return obstacleSet.contains(Arrays.toString(nextPos));
-        }
-
-        /**
-         * 计算距离起始点的最大欧氏距离的平方
-         * @return
-         */
-        public int calcSquaredDistance() {
-            return (int)(Math.pow(this.curPos[0] - this.startPos[0], 2) + Math.pow(this.curPos[1] - this.startPos[1], 2));
-        }
+        return res;
     }
 }
