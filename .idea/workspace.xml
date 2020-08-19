@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/greedy/NonDecreasingArray_665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarysearch/BinarySearch_704.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -49,13 +50,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.NonDecreasingArray_665">
-    <configuration name="Greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Greedy" />
+  <component name="RunManager" selected="Application.BinarySearch_704">
+    <configuration name="BinarySearch_704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearch_704" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LemonadeChange_860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.LemonadeChange_860" />
+    <configuration name="Greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Greedy" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch_704" />
         <item itemvalue="Application.NonDecreasingArray_665" />
         <item itemvalue="Application.WalkingRobotSimulation_874" />
         <item itemvalue="Application.WalkingRobotSimulationOOP_874" />
         <item itemvalue="Application.Greedy" />
-        <item itemvalue="Application.LemonadeChange_860" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,10 @@
       <workItem from="1594460936115" duration="2912000" />
       <workItem from="1594536154391" duration="13404000" />
       <workItem from="1594567729505" duration="1047000" />
-      <workItem from="1594696329593" duration="4958000" />
+      <workItem from="1594696329593" duration="5147000" />
+      <workItem from="1595125186059" duration="2774000" />
+      <workItem from="1595170929615" duration="34000" />
+      <workItem from="1597807429573" duration="4882000" />
     </task>
     <servers />
   </component>
@@ -169,22 +173,26 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="335" height="742" key="GridCell.Tab.0.bottom" timestamp="1594712094263">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="392" height="892" key="GridCell.Tab.0.bottom" timestamp="1597812765277">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="335" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594712094263" />
-    <state width="335" height="742" key="GridCell.Tab.0.center" timestamp="1594712094262">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="335" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595169562673" />
+    <state width="392" height="892" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1597812765277" />
+    <state width="392" height="892" key="GridCell.Tab.0.center" timestamp="1597812765276">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="335" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594712094262" />
-    <state width="335" height="742" key="GridCell.Tab.0.left" timestamp="1594712094261">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="335" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
+    <state width="392" height="892" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1597812765276" />
+    <state width="392" height="892" key="GridCell.Tab.0.left" timestamp="1597812765275">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="335" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594712094261" />
-    <state width="335" height="742" key="GridCell.Tab.0.right" timestamp="1594712094262">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="335" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595169562671" />
+    <state width="392" height="892" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1597812765275" />
+    <state width="392" height="892" key="GridCell.Tab.0.right" timestamp="1597812765276">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="335" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594712094262" />
+    <state width="335" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
+    <state width="392" height="892" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1597812765276" />
     <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -201,10 +209,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
+    <state x="339" y="82" key="NewModule_or_Project.wizard" timestamp="1595170959059">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="339" y="82" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1595170959058" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594278281592">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594278281592" />
+    <state width="614" height="445" key="SwitcherDM" timestamp="1597808109804">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="614" height="445" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1597808109804" />
     <state x="507" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593747002364">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -217,10 +233,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1593747006639" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594711968348">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1597809810657">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="449" y="219" width="782" height="779" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594009220428" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1594711968348" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1595125740276" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1597809810657" />
   </component>
 </project>

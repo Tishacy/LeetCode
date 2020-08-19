@@ -41,5 +41,6 @@ LeetCode刷题记录，记录代码和做题思路。
         - 面向过程: [`WalkingRobotSimulation_874.java`](src/greedy/WalkingRobotSimulation_874.java)
     - 665\. 非递减数列: [`NonDecreasingArray_665.java`](src/greedy/NonDecreasingArray_665.java)
     
-    
+- [二分查找](src/binarysearch)
+    - 基本的二分查找问题: [`BinarySearch_704`](src/binarysearch/BinarySearch_704.java)
     
