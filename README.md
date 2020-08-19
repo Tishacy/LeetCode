@@ -42,5 +42,6 @@ LeetCode刷题记录，记录代码和做题思路。
     - 665\. 非递减数列: [`NonDecreasingArray_665.java`](src/greedy/NonDecreasingArray_665.java)
     
 - [二分查找](src/binarysearch)
-    - 基本的二分查找问题: [`BinarySearch_704`](src/binarysearch/BinarySearch_704.java)
+    - 704. 基本的二分查找问题: [`BinarySearch_704`](src/binarysearch/BinarySearch_704.java)
+    - 69. 求 x 的开方: [`SquareX_69`](src/binarysearch/SquareX_69.java)
     
