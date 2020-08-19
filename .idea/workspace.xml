@@ -11,12 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/binarysearch/FindSmallestLetterGreaterThanTarget_744.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarysearch/BinarySearch_704.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/binarysearch/BinarySearch_704.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarysearch/SquareX_69.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/binarysearch/SquareX_69.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/BinarySearch_704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearch/BinarySearch_704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/SquareX_69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearch/SquareX_69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +147,7 @@
       <workItem from="1594696329593" duration="5147000" />
       <workItem from="1595125186059" duration="2774000" />
       <workItem from="1595170929615" duration="34000" />
-      <workItem from="1597807429573" duration="14907000" />
+      <workItem from="1597807429573" duration="16485000" />
     </task>
     <servers />
   </component>
