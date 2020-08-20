@@ -45,4 +45,6 @@ LeetCode刷题记录，记录代码和做题思路。
     - 704\. 基本的二分查找问题: [`BinarySearch_704.java`](src/binarysearch/BinarySearch_704.java)
     - 69\. 求 x 的开方: [`SquareX_69.java`](src/binarysearch/SquareX_69.java)
     - 744\. 寻找比目标字母大的最小字母: [`FindSmallestLetterGreaterThanTarget_744.java`](src/binarysearch/FindSmallestLetterGreaterThanTarget_744.java)
+    - 540\. 有序数组中的单一元素: [`SingleElementinASortedArray_540.java`](src/binarysearch/SingleElementinASortedArray_540.java)
+    
     
