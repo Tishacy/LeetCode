@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/binarysearch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideconquer/DifferentWaysToAddParentheses_241.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.FindFirstAndLastPositionOfElementInSortedArray_34">
-    <configuration name="BinarySearch_704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearch_704" />
+  <component name="RunManager" selected="Application.DifferentWaysToAddParentheses_241">
+    <configuration name="DifferentWaysToAddParentheses_241" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="divideconquer.DifferentWaysToAddParentheses_241" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
+          <option name="PATTERN" value="divideconquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DifferentWaysToAddParentheses_241" />
         <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray_34" />
         <item itemvalue="Application.FindMinimumInRotatedSortedArray_153" />
         <item itemvalue="Application.SingleElementinASortedArray_540" />
         <item itemvalue="Application.FindSmallestLetterGreaterThanTarget_744" />
-        <item itemvalue="Application.BinarySearch_704" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +150,7 @@
       <workItem from="1595170929615" duration="34000" />
       <workItem from="1597807429573" duration="17257000" />
       <workItem from="1597900255370" duration="13044000" />
-      <workItem from="1598029328112" duration="3290000" />
+      <workItem from="1598029328112" duration="7819000" />
     </task>
     <servers />
   </component>
@@ -173,26 +174,26 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="392" height="694" key="GridCell.Tab.0.bottom" timestamp="1598022803890">
+    <state width="392" height="892" key="GridCell.Tab.0.bottom" timestamp="1598076423161">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595169562673" />
-    <state width="392" height="694" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598022803890" />
-    <state width="392" height="694" key="GridCell.Tab.0.center" timestamp="1598022803889">
+    <state width="392" height="892" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423161" />
+    <state width="392" height="892" key="GridCell.Tab.0.center" timestamp="1598076423161">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
-    <state width="392" height="694" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598022803889" />
-    <state width="392" height="694" key="GridCell.Tab.0.left" timestamp="1598022803889">
+    <state width="392" height="892" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423161" />
+    <state width="392" height="892" key="GridCell.Tab.0.left" timestamp="1598076423160">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595169562671" />
-    <state width="392" height="694" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598022803889" />
-    <state width="392" height="694" key="GridCell.Tab.0.right" timestamp="1598022803890">
+    <state width="392" height="892" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423160" />
+    <state width="392" height="892" key="GridCell.Tab.0.right" timestamp="1598076423161">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
-    <state width="392" height="694" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598022803890" />
+    <state width="392" height="892" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423161" />
     <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -233,11 +234,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1593747006639" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1597931483156">
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1598073420579">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="449" y="219" width="782" height="779" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594009220428" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1595125740276" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1597931483156" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1598073420579" />
   </component>
 </project>
