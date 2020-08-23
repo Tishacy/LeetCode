@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/divideconquer/DifferentWaysToAddParentheses_241.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideconquer/UniqueBinarySearchTreesII_95.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/divideconquer/DifferentWaysToAddParentheses_241.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/divideconquer/DifferentWaysToAddParentheses_241.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.DifferentWaysToAddParentheses_241">
+  <component name="RunManager" selected="Application.UniqueBinarySearchTreesII_95">
     <configuration name="DifferentWaysToAddParentheses_241" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="divideconquer.DifferentWaysToAddParentheses_241" />
       <module name="LeetCode" />
@@ -89,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSmallestLetterGreaterThanTarget_744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch.FindSmallestLetterGreaterThanTarget_744" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SingleElementinASortedArray_540" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarysearch.SingleElementinASortedArray_540" />
       <module name="LeetCode" />
@@ -115,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueBinarySearchTreesII_95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="divideconquer.UniqueBinarySearchTreesII_95" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="divideconquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueBinarySearchTreesII_95" />
         <item itemvalue="Application.DifferentWaysToAddParentheses_241" />
         <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray_34" />
         <item itemvalue="Application.FindMinimumInRotatedSortedArray_153" />
         <item itemvalue="Application.SingleElementinASortedArray_540" />
-        <item itemvalue="Application.FindSmallestLetterGreaterThanTarget_744" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,8 @@
       <workItem from="1595170929615" duration="34000" />
       <workItem from="1597807429573" duration="17257000" />
       <workItem from="1597900255370" duration="13044000" />
-      <workItem from="1598029328112" duration="7819000" />
+      <workItem from="1598029328112" duration="13789000" />
+      <workItem from="1598151712657" duration="1710000" />
     </task>
     <servers />
   </component>
@@ -174,26 +176,26 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="392" height="892" key="GridCell.Tab.0.bottom" timestamp="1598076423161">
+    <state width="392" height="686" key="GridCell.Tab.0.bottom" timestamp="1598153084111">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595169562673" />
-    <state width="392" height="892" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423161" />
-    <state width="392" height="892" key="GridCell.Tab.0.center" timestamp="1598076423161">
+    <state width="392" height="686" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598153084111" />
+    <state width="392" height="686" key="GridCell.Tab.0.center" timestamp="1598153084110">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
-    <state width="392" height="892" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423161" />
-    <state width="392" height="892" key="GridCell.Tab.0.left" timestamp="1598076423160">
+    <state width="392" height="686" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598153084110" />
+    <state width="392" height="686" key="GridCell.Tab.0.left" timestamp="1598153084110">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595169562671" />
-    <state width="392" height="892" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423160" />
-    <state width="392" height="892" key="GridCell.Tab.0.right" timestamp="1598076423161">
+    <state width="392" height="686" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598153084110" />
+    <state width="392" height="686" key="GridCell.Tab.0.right" timestamp="1598153084111">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="335" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
-    <state width="392" height="892" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598076423161" />
+    <state width="392" height="686" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598153084111" />
     <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594192495355">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

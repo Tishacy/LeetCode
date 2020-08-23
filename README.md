@@ -51,4 +51,5 @@ LeetCode刷题记录，记录代码和做题思路。
 
 - [分而治之](src/divideconquer)
     - 241\. 为运算表达式设计优先级: [`DifferentWaysToAddParentheses_241.java`](src/divideconquer/DifferentWaysToAddParentheses_241.java)
+    - 95\. 不同的二叉搜索树 II: [`UniqueBinarySearchTreesII_95.java`](src/divideconquer/UniqueBinarySearchTreesII_95.java)
     
