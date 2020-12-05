@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tishacy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search/ShortestPathInBinaryMatrix_1091.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -157,7 +157,7 @@
       <workItem from="1598029328112" duration="13789000" />
       <workItem from="1598151712657" duration="19834000" />
       <workItem from="1598584557630" duration="757000" />
-      <workItem from="1607103002746" duration="4055000" />
+      <workItem from="1607103002746" duration="4805000" />
     </task>
     <servers />
   </component>
@@ -177,22 +177,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607152933116">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607152952055">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
-    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607152933116">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952055" />
+    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607152952054">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
-    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607152933116">
+    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952054" />
+    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607152952053">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
-    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607152933116">
+    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952053" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607152952054">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952054" />
     <state x="207" y="113" key="new project wizard" timestamp="1598514120339">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

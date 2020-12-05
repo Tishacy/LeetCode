@@ -58,4 +58,5 @@ LeetCode刷题记录，记录代码和做题思路。
         - 广度优先搜索（BFS）算法：`breadthFirstSearch`
         - 深度优先搜索（DFS）算法：`depthFirstSearch`
         - 最短路径算法：`shortestPath`
+    - 1091\. ShortestPathInBinaryMatrix: [ShortestPathInBinaryMatrix.java](src/search/ShortestPathInBinaryMatrix_1091.java)
     
