@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tishacy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/ShortestPathInBinaryMatrix_1091.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +44,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.BasicSearch">
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.ShortestPathInBinaryMatrix_1091">
     <configuration name="BasicSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.BasicSearch.BasicSearch" />
       <module name="LeetCode" />
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimumInRotatedSortedArray_153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch.FindMinimumInRotatedSortedArray_153" />
+    <configuration name="ShortestPathInBinaryMatrix_1091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.ShortestPathInBinaryMatrix_1091" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
+          <option name="PATTERN" value="search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestPathInBinaryMatrix_1091" />
         <item itemvalue="Application.BasicSearch" />
         <item itemvalue="Application.UniqueBinarySearchTreesII_95" />
         <item itemvalue="Application.DifferentWaysToAddParentheses_241" />
         <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray_34" />
-        <item itemvalue="Application.FindMinimumInRotatedSortedArray_153" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +155,9 @@
       <workItem from="1597807429573" duration="17257000" />
       <workItem from="1597900255370" duration="13044000" />
       <workItem from="1598029328112" duration="13789000" />
-      <workItem from="1598151712657" duration="16730000" />
+      <workItem from="1598151712657" duration="19834000" />
+      <workItem from="1598584557630" duration="757000" />
+      <workItem from="1607103002746" duration="4055000" />
     </task>
     <servers />
   </component>
@@ -170,80 +177,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="474" y="222" key="#Inspections" timestamp="1598254145599">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607152933116">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
+    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607152933116">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
+    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607152933116">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607152933116">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607152933116" />
+    <state x="207" y="113" key="new project wizard" timestamp="1598514120339">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="474" y="222" key="#Inspections/0.23.1680.1027@0.23.1680.1027" timestamp="1598254145599" />
-    <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594008952970">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="597" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1594008952970" />
-    <state width="425" height="892" key="GridCell.Tab.0.bottom" timestamp="1598258315264">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="335" height="742" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595169562673" />
-    <state width="425" height="892" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598258315264" />
-    <state width="425" height="892" key="GridCell.Tab.0.center" timestamp="1598258315263">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="335" height="742" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
-    <state width="425" height="892" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598258315263" />
-    <state width="425" height="892" key="GridCell.Tab.0.left" timestamp="1598258315263">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="335" height="742" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595169562671" />
-    <state width="425" height="892" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598258315263" />
-    <state width="425" height="892" key="GridCell.Tab.0.right" timestamp="1598258315264">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="335" height="742" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595169562672" />
-    <state width="425" height="892" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598258315264" />
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1594192495355">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
-    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1594192495355">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
-    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1594192495355">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
-    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1594192495355">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594192495355" />
-    <state x="339" y="82" key="NewModule_or_Project.wizard" timestamp="1595170959059">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="339" y="82" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1595170959058" />
-    <state x="258" y="70" key="SettingsEditor" timestamp="1598247280905">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594278281592" />
-    <state x="258" y="70" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1598247280905" />
-    <state width="614" height="445" key="SwitcherDM" timestamp="1597808109804">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="614" height="445" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1597808109804" />
-    <state x="507" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593747002364">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="507" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1593747002364" />
-    <state x="416" y="188" width="596" height="522" key="find.popup" timestamp="1594542123503">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="416" y="188" width="596" height="522" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1594542123503" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1593747006639">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="600" height="440" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1593747006639" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1598239685824">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="449" y="219" width="782" height="779" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594009220428" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1595125740276" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1598239685824" />
+    <state x="207" y="113" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1598514120339" />
   </component>
 </project>
