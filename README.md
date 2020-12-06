@@ -54,9 +54,10 @@ LeetCode刷题记录，记录代码和做题思路。
     - 95\. 不同的二叉搜索树 II: [`UniqueBinarySearchTreesII_95.java`](src/divideconquer/UniqueBinarySearchTreesII_95.java)
 
 - [搜索](src/search)
-    - BasicSearch: [BasicSearch.java](src/search/BasicSearch.java)
+    - BasicSearch: [`BasicSearch.java`](src/search/BasicSearch.java)
         - 广度优先搜索（BFS）算法：`breadthFirstSearch`
         - 深度优先搜索（DFS）算法：`depthFirstSearch`
         - 最短路径算法：`shortestPath`
-    - 1091\. ShortestPathInBinaryMatrix: [ShortestPathInBinaryMatrix.java](src/search/ShortestPathInBinaryMatrix_1091.java)
+    - 1091\. ShortestPathInBinaryMatrix: [`ShortestPathInBinaryMatrix_1091.java`](src/search/ShortestPathInBinaryMatrix_1091.java)
+    - 279\. PerfectSquares: [`PerfectSquares_279.java`](src/search/PerfectSquares_279.java)
     

@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/search/PerfectSquares_279.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -53,7 +54,7 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.ShortestPathInBinaryMatrix_1091">
+  <component name="RunManager" selected="Application.PerfectSquares_279">
     <configuration name="BasicSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.BasicSearch.BasicSearch" />
       <module name="LeetCode" />
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstAndLastPositionOfElementInSortedArray_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch.FindFirstAndLastPositionOfElementInSortedArray_34" />
+    <configuration name="PerfectSquares_279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.PerfectSquares_279" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
+          <option name="PATTERN" value="search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectSquares_279" />
         <item itemvalue="Application.ShortestPathInBinaryMatrix_1091" />
         <item itemvalue="Application.BasicSearch" />
         <item itemvalue="Application.UniqueBinarySearchTreesII_95" />
         <item itemvalue="Application.DifferentWaysToAddParentheses_241" />
-        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray_34" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,8 @@
       <workItem from="1598029328112" duration="13789000" />
       <workItem from="1598151712657" duration="19834000" />
       <workItem from="1598584557630" duration="757000" />
-      <workItem from="1607103002746" duration="4805000" />
+      <workItem from="1607103002746" duration="4955000" />
+      <workItem from="1607240659632" duration="765000" />
     </task>
     <servers />
   </component>
@@ -177,25 +179,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607152952055">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607241343860">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952055" />
-    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607152952054">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343860" />
+    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607241343859">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952054" />
-    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607152952053">
+    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343859" />
+    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607241343859">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952053" />
-    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607152952054">
+    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343859" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607241343859">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607152952054" />
-    <state x="207" y="113" key="new project wizard" timestamp="1598514120339">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="207" y="113" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1598514120339" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343859" />
   </component>
 </project>
