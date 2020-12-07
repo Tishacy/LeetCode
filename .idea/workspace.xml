@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/search/PerfectSquares_279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/WordLadder_127.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -54,26 +54,13 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.PerfectSquares_279">
+  <component name="RunManager" selected="Application.WordLadder_127">
     <configuration name="BasicSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.BasicSearch.BasicSearch" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="search.BasicSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DifferentWaysToAddParentheses_241" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="divideconquer.DifferentWaysToAddParentheses_241" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="divideconquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordLadder_127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.WordLadder_127" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordLadder_127" />
         <item itemvalue="Application.PerfectSquares_279" />
         <item itemvalue="Application.ShortestPathInBinaryMatrix_1091" />
         <item itemvalue="Application.BasicSearch" />
         <item itemvalue="Application.UniqueBinarySearchTreesII_95" />
-        <item itemvalue="Application.DifferentWaysToAddParentheses_241" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,8 @@
       <workItem from="1598151712657" duration="19834000" />
       <workItem from="1598584557630" duration="757000" />
       <workItem from="1607103002746" duration="4955000" />
-      <workItem from="1607240659632" duration="765000" />
+      <workItem from="1607240659632" duration="1312000" />
+      <workItem from="1607316410611" duration="2466000" />
     </task>
     <servers />
   </component>
@@ -179,21 +180,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607241343860">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607319373193">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343860" />
-    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607241343859">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607319373193" />
+    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607319373192">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343859" />
-    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607241343859">
+    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607319373192" />
+    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607319373192">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343859" />
-    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607241343859">
+    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607319373192" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607319373193">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607241343859" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607319373193" />
   </component>
 </project>
