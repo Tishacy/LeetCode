@@ -61,3 +61,5 @@ LeetCode刷题记录，记录代码和做题思路。
     - 1091\. 二进制矩阵中的最短路径: [`ShortestPathInBinaryMatrix_1091.java`](src/search/ShortestPathInBinaryMatrix_1091.java)
     - 279\. 完全平方数: [`PerfectSquares_279.java`](src/search/PerfectSquares_279.java)
     - 127\. 单词接龙: [`WordLadder_127.java`](src/search/WordLadder_127.java)
+    - 695\. 岛的最大面积: [`MaxAreaOfIsland_695.java`](src/search/MaxAreaOfIsland_695.java)
+    
