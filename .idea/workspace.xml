@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/search/MaxAreaOfIsland_695.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/NumOfIslands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -54,13 +54,13 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.MaxAreaOfIsland_695">
-    <configuration name="BasicSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.BasicSearch.BasicSearch" />
+  <component name="RunManager" selected="Application.NumOfIslands">
+    <configuration name="MaxAreaOfIsland_695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.MaxAreaOfIsland_695" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.BasicSearch.*" />
+          <option name="PATTERN" value="search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAreaOfIsland_695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.MaxAreaOfIsland_695" />
+    <configuration name="NumOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.NumOfIslands" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumOfIslands" />
         <item itemvalue="Application.MaxAreaOfIsland_695" />
         <item itemvalue="Application.WordLadder_127" />
         <item itemvalue="Application.PerfectSquares_279" />
         <item itemvalue="Application.ShortestPathInBinaryMatrix_1091" />
-        <item itemvalue="Application.BasicSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1607103002746" duration="4955000" />
       <workItem from="1607240659632" duration="1312000" />
       <workItem from="1607316410611" duration="3000000" />
-      <workItem from="1607405124537" duration="1782000" />
+      <workItem from="1607405124537" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -181,21 +181,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607406875774">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607408088432">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607406875774" />
-    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607406875773">
+    <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088432" />
+    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607408088431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607406875773" />
-    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607406875772">
+    <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088431" />
+    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607408088431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607406875772" />
-    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607406875773">
+    <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088431" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607408088431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607406875773" />
+    <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088431" />
   </component>
 </project>
