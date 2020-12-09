@@ -64,4 +64,4 @@ LeetCode刷题记录，记录代码和做题思路。
     - 695\. 岛的最大面积: [`MaxAreaOfIsland_695.java`](src/search/MaxAreaOfIsland_695.java)
     - 200\. 岛屿数量: [`NumOfIslands.java`](src/search/NumOfIslands.java)
     - 547\. 朋友圈: [`FriendCircles_547.java`](src/search/FriendCircles_547.java)
-    
+    - 130\. 被围绕的区域: [`SurroundedRegions_130.java`](src/search/SurroundedRegions_130.java)
