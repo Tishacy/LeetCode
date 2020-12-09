@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/search/NumOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/FriendCircles_547.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -54,7 +54,20 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.NumOfIslands">
+  <component name="RunManager" selected="Application.FriendCircles_547">
+    <configuration name="FriendCircles_547" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.FriendCircles_547" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxAreaOfIsland_695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.MaxAreaOfIsland_695" />
       <module name="LeetCode" />
@@ -94,19 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestPathInBinaryMatrix_1091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.ShortestPathInBinaryMatrix_1091" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WordLadder_127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.WordLadder_127" />
       <module name="LeetCode" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FriendCircles_547" />
         <item itemvalue="Application.NumOfIslands" />
         <item itemvalue="Application.MaxAreaOfIsland_695" />
         <item itemvalue="Application.WordLadder_127" />
         <item itemvalue="Application.PerfectSquares_279" />
-        <item itemvalue="Application.ShortestPathInBinaryMatrix_1091" />
       </list>
     </recent_temporary>
   </component>
@@ -181,21 +181,45 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="218" key="GridCell.Tab.0.bottom" timestamp="1607408088432">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state x="645" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1607497148963">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
+    <state x="645" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1607497148963" />
+    <state width="1635" height="208" key="GridCell.Tab.0.bottom" timestamp="1607498498257">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1635" height="208" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1607498498257" />
     <state width="1638" height="218" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088432" />
-    <state width="1638" height="218" key="GridCell.Tab.0.center" timestamp="1607408088431">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1635" height="208" key="GridCell.Tab.0.center" timestamp="1607498498257">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
+    <state width="1635" height="208" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1607498498257" />
     <state width="1638" height="218" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088431" />
-    <state width="1638" height="218" key="GridCell.Tab.0.left" timestamp="1607408088431">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1635" height="208" key="GridCell.Tab.0.left" timestamp="1607498498257">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
+    <state width="1635" height="208" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1607498498257" />
     <state width="1638" height="218" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088431" />
-    <state width="1638" height="218" key="GridCell.Tab.0.right" timestamp="1607408088431">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1635" height="208" key="GridCell.Tab.0.right" timestamp="1607498498257">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
+    <state width="1635" height="208" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1607498498257" />
     <state width="1638" height="218" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1607408088431" />
+    <state x="380" y="126" key="SettingsEditor" timestamp="1607497929039">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="380" y="126" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1607497929039" />
+    <state x="642" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607497133927">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="642" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1607497133927" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1607498706318">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1607498706318" />
+    <state x="496" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1607497125808">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="158" width="670" height="676" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1607497125808" />
   </component>
 </project>
