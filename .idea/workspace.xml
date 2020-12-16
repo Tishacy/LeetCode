@@ -11,11 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/search/WordSearch_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/BinaryTreePaths_257.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search/LetterCombinationsOfAPhoneNumber_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/LetterCombinationsOfAPhoneNumber_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search/RestoreIpAddress_93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/RestoreIpAddress_93.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/search/WordSearch_79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/search/WordSearch_79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/PerfectSquares_279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/PerfectSquares_279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/WordSearch_79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/WordSearch_79.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +58,9 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.WordSearch_79">
-    <configuration name="LetterCombinationsOfAPhoneNumber_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.LetterCombinationsOfAPhoneNumber_17" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PacificAtlanticWaterFlow_417" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.PacificAtlanticWaterFlow_417" />
+  <component name="RunManager" selected="Application.BinaryTreePaths_257">
+    <configuration name="BinaryTreePaths_257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.BinaryTreePaths_257" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -74,6 +68,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombinationsOfAPhoneNumber_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.LetterCombinationsOfAPhoneNumber_17" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTreePaths_257" />
         <item itemvalue="Application.WordSearch_79" />
         <item itemvalue="Application.LetterCombinationsOfAPhoneNumber_17" />
         <item itemvalue="Application.RestoreIpAddress_93" />
         <item itemvalue="Application.RestoreIpAddress_93_test" />
-        <item itemvalue="Application.PacificAtlanticWaterFlow_417" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,7 @@
       <workItem from="1607240659632" duration="1312000" />
       <workItem from="1607316410611" duration="3000000" />
       <workItem from="1607405124537" duration="2756000" />
-      <workItem from="1608094308569" duration="7587000" />
+      <workItem from="1608094308569" duration="9659000" />
     </task>
     <servers />
   </component>

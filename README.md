@@ -58,15 +58,19 @@ LeetCode刷题记录，记录代码和做题思路。
         - 广度优先搜索（BFS）算法：`breadthFirstSearch`
         - 深度优先搜索（DFS）算法：`depthFirstSearch`
         - 最短路径算法：`shortestPath`
-    - 1091\. 二进制矩阵中的最短路径: [`ShortestPathInBinaryMatrix_1091.java`](src/search/ShortestPathInBinaryMatrix_1091.java)
-    - 279\. 完全平方数: [`PerfectSquares_279.java`](src/search/PerfectSquares_279.java)
-    - 127\. 单词接龙: [`WordLadder_127.java`](src/search/WordLadder_127.java)
-    - 695\. 岛的最大面积: [`MaxAreaOfIsland_695.java`](src/search/MaxAreaOfIsland_695.java)
-    - 200\. 岛屿数量: [`NumOfIslands.java`](src/search/NumOfIslands.java)
-    - 547\. 朋友圈: [`FriendCircles_547.java`](src/search/FriendCircles_547.java)
-    - 130\. 被围绕的区域: [`SurroundedRegions_130.java`](src/search/SurroundedRegions_130.java)
-    - 417\. 太平洋大西洋水流问题: [`PacificAtlanticWaterFlow_417.java`](src/search/PacificAtlanticWaterFlow_417.java)
-    - 17\. 电话号码的字母组合: [`LetterCombinationsOfAPhoneNumber_17.java`](src/search/LetterCombinationsOfAPhoneNumber_17.java)
-    - 93\. 复原IP地址: [`RestoreIpAddress_93.java`](src/search/RestoreIpAddress_93.java)
-    - 79\. 单词搜索: [`WordSearch_79.java`](src/search/WordSearch_79.java)
+    - BFS: 图的遍历与最短路径问题
+        - 1091\. 二进制矩阵中的最短路径: [`ShortestPathInBinaryMatrix_1091.java`](src/search/ShortestPathInBinaryMatrix_1091.java)
+        - 279\. 完全平方数: [`PerfectSquares_279.java`](src/search/PerfectSquares_279.java)
+        - 127\. 单词接龙: [`WordLadder_127.java`](src/search/WordLadder_127.java)
+    - DFS: 图的连通性问题（存在一条连通的路径问题）
+        - 695\. 岛的最大面积: [`MaxAreaOfIsland_695.java`](src/search/MaxAreaOfIsland_695.java)
+        - 200\. 岛屿数量: [`NumOfIslands.java`](src/search/NumOfIslands.java)
+        - 547\. 朋友圈: [`FriendCircles_547.java`](src/search/FriendCircles_547.java)
+        - 130\. 被围绕的区域: [`SurroundedRegions_130.java`](src/search/SurroundedRegions_130.java)
+        - 417\. 太平洋大西洋水流问题: [`PacificAtlanticWaterFlow_417.java`](src/search/PacificAtlanticWaterFlow_417.java)
+    - DFS + 回溯: 排列组合、所有路经集合、某一确定路径是否存在问题
+        - 17\. 电话号码的字母组合: [`LetterCombinationsOfAPhoneNumber_17.java`](src/search/LetterCombinationsOfAPhoneNumber_17.java)
+        - 93\. 复原IP地址: [`RestoreIpAddress_93.java`](src/search/RestoreIpAddress_93.java)
+        - 79\. 单词搜索: [`WordSearch_79.java`](src/search/WordSearch_79.java)
+        - 257\. 二叉树的所有路径: [`BinaryTreePaths_257.java`](src/search/BinaryTreePaths_257.java)
     
