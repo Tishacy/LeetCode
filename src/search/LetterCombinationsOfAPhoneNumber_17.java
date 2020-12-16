@@ -29,7 +29,7 @@ public class LetterCombinationsOfAPhoneNumber_17 {
      *  问题不是找到某个结果的路径，而是要找到所有的可能的结果，因此在找到某个结果
      *  之后，不应当直接返回，而是应当回溯上一个状态，继续搜索，直到所有的路径走完为止。
      *
-     *  在回溯的算法中，重点需要 2 个关键变量：路径变量 和 路径的集合变量
+     *  在回溯的算法中，重点需要 2 个关键变量：路径变量（未包含当前节点）和 当前节点
      *
      * @param args
      */
@@ -65,7 +65,7 @@ public class LetterCombinationsOfAPhoneNumber_17 {
             combinations.add(path.toString());
             return;
         }
-        // 取出下一个数字所对应的字母列表
+        // 取出当前数字所对应的字母列表
         // 添加到路径中，递归回溯当前路径
         // 当递归函数返回的时候，是将一条完整的路径走完的时候，这是要需要回溯到上一个状态
         int number = digits.charAt(path.length()) - '0';

@@ -68,3 +68,5 @@ LeetCode刷题记录，记录代码和做题思路。
     - 417\. 太平洋大西洋水流问题: [`PacificAtlanticWaterFlow_417.java`](src/search/PacificAtlanticWaterFlow_417.java)
     - 17\. 电话号码的字母组合: [`LetterCombinationsOfAPhoneNumber_17.java`](src/search/LetterCombinationsOfAPhoneNumber_17.java)
     - 93\. 复原IP地址: [`RestoreIpAddress_93.java`](src/search/RestoreIpAddress_93.java)
+    - 79\. 单词搜索: [`WordSearch_79.java`](src/search/WordSearch_79.java)
+    
