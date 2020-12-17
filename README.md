@@ -75,4 +75,5 @@ LeetCode刷题记录，记录代码和做题思路。
         - 257\. 二叉树的所有路径: [`BinaryTreePaths_257.java`](src/search/BinaryTreePaths_257.java)
         - 46\. 全排列: [`Permutations_46.java`](src/search/Permutations_46.java)
         - 77\. 组合: [`Combinations_77.java`](src/search/Combinations_77.java)
+        - 39\. 组合总和: [`CombinationSum_39.java`](src/search/CombinationSum_39.java)
     
