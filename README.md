@@ -73,4 +73,5 @@ LeetCode刷题记录，记录代码和做题思路。
         - 93\. 复原IP地址: [`RestoreIpAddress_93.java`](src/search/RestoreIpAddress_93.java)
         - 79\. 单词搜索: [`WordSearch_79.java`](src/search/WordSearch_79.java)
         - 257\. 二叉树的所有路径: [`BinaryTreePaths_257.java`](src/search/BinaryTreePaths_257.java)
+        - 46\. 全排列: [`Permutations_46.java`](src/search/Permutations_46.java)
     
