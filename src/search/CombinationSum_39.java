@@ -44,8 +44,8 @@ public class CombinationSum_39 {
      */
     public static void main(String[] args) {
         CombinationSum_39 solution = new CombinationSum_39();
-        int[] candidates = {2, 3, 6, 7};
-        int target = 7;
+        int[] candidates = {2, 3, 5};
+        int target = 8;
         List<List<Integer>> combinations = solution.combinationSum(candidates, target);
         System.out.println("[Solution] Combination sum: " + combinations);
     }
@@ -53,36 +53,25 @@ public class CombinationSum_39 {
     private List<List<Integer>> combinations = new ArrayList<>();
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        for (int i=0; i<candidates.length; i++) {
-            List<Integer> path = new ArrayList<>(Arrays.asList(candidates[i]));
-            backTracking(candidates, i, path, target);
-        }
+        List<Integer> path = new ArrayList<>();
+        backTracking(candidates, 0, path, target);
         return combinations;
     }
 
     private void backTracking(int[] candidates, int i, List<Integer> path, int target) {
-        int pathSum = pathSum(path);
-        if (pathSum == target) {
+        if (target == 0) {
             combinations.add(new ArrayList<>(path));
             return;
         }
-        if (pathSum > target) {
+        if (target < 0) {
             return;
         }
         for (int j=i; j<candidates.length; j++) {
             if (candidates[j] <= target) {
                 path.add(candidates[j]);
-                backTracking(candidates, j, path, target);
+                backTracking(candidates, j, path, target - candidates[j]);
                 path.remove(path.size() - 1);
             }
         }
-    }
-
-    private int pathSum(List<Integer> path) {
-        int sum = 0;
-        for (int num : path) {
-            sum += num;
-        }
-        return sum;
     }
 }
