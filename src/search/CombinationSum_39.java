@@ -63,9 +63,6 @@ public class CombinationSum_39 {
             combinations.add(new ArrayList<>(path));
             return;
         }
-        if (target < 0) {
-            return;
-        }
         for (int j=i; j<candidates.length; j++) {
             if (candidates[j] <= target) {
                 path.add(candidates[j]);
