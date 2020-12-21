@@ -11,9 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/search/SubsetsII_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/Subsets_78.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search/CombinationSumII_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/CombinationSumII_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search/CombinationSum_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/CombinationSum_39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/search/PacificAtlanticWaterFlow_417.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/search/PacificAtlanticWaterFlow_417.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/PacificAtlanticWaterFlow_417.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/PacificAtlanticWaterFlow_417.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +58,7 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.CombinationSumII_40">
-    <configuration name="BinaryTreePaths_257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.BinaryTreePaths_257" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SubsetsII_90">
     <configuration name="CombinationSumII_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.CombinationSumII_40" />
       <module name="LeetCode" />
@@ -108,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.Permutations_46" />
+    <configuration name="SubsetsII_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.SubsetsII_90" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -121,24 +111,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Subsets_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.Subsets_78" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubsetsII_90" />
+        <item itemvalue="Application.Subsets_78" />
         <item itemvalue="Application.CombinationSumII_40" />
         <item itemvalue="Application.CombinationSum_39" />
         <item itemvalue="Application.Combinations_77" />
-        <item itemvalue="Application.Permutations_46" />
-        <item itemvalue="Application.BinaryTreePaths_257" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +181,8 @@
       <workItem from="1607316410611" duration="3000000" />
       <workItem from="1607405124537" duration="2756000" />
       <workItem from="1608094308569" duration="10567000" />
-      <workItem from="1608180971732" duration="14568000" />
+      <workItem from="1608180971732" duration="15229000" />
+      <workItem from="1608526764785" duration="2407000" />
     </task>
     <servers />
   </component>

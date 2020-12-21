@@ -76,4 +76,6 @@ LeetCode刷题记录，记录代码和做题思路。
         - 46\. 全排列: [`Permutations_46.java`](src/search/Permutations_46.java)
         - 77\. 组合: [`Combinations_77.java`](src/search/Combinations_77.java)
         - 39\. 组合总和: [`CombinationSum_39.java`](src/search/CombinationSum_39.java)
+        - 78\. 子集: [`Subsets_78.java`](src/search/Subsets_78.java)
+        - 90\. 子集II: [`SubsetsII_78.java`](src/search/SubsetsII_90.java)
     
