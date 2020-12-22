@@ -11,12 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/search/AnotherPalindromePartitioning_131.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search/AnotherPalindromePartitioning_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/SingletonPattern_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/search/RestoreIpAddress_93.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/search/RestoreIpAddress_93.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search/RestoreIpAddress_93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/RestoreIpAddress_93.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,8 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
@@ -63,22 +62,9 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnotherPalindromePartitioning_131">
+  <component name="RunManager" selected="Application.SingletonPattern_2">
     <configuration name="AnotherPalindromePartitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.AnotherPalindromePartitioning_131" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CombinationSumII_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.CombinationSumII_40" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +82,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.SingletonPattern_2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,24 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonPattern_2" />
         <item itemvalue="Application.AnotherPalindromePartitioning_131" />
         <item itemvalue="Application.PalindromePartitioning_131" />
         <item itemvalue="Application.SubsetsII_90" />
         <item itemvalue="Application.Subsets_78" />
-        <item itemvalue="Application.CombinationSumII_40" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,12 @@
       <workItem from="1608094308569" duration="10567000" />
       <workItem from="1608180971732" duration="15229000" />
       <workItem from="1608526764785" duration="2736000" />
-      <workItem from="1608612806502" duration="6604000" />
+      <workItem from="1608612806502" duration="7194000" />
+      <workItem from="1608646612864" duration="370000" />
+      <workItem from="1608647051492" duration="377000" />
+      <workItem from="1608647451352" duration="704000" />
+      <workItem from="1608648188070" duration="859000" />
+      <workItem from="1608649054744" duration="1763000" />
     </task>
     <servers />
   </component>
@@ -204,5 +210,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
