@@ -79,4 +79,5 @@ LeetCode刷题记录，记录代码和做题思路。
         - 78\. 子集: [`Subsets_78.java`](src/search/Subsets_78.java)
         - 90\. 子集II: [`SubsetsII_78.java`](src/search/SubsetsII_90.java)
         - 131\. 分割回文串: [`PalindromePartitioning_131.java`](src/search/PalindromePartitioning_131.java)
+        - 131\. 分割回文串(另一种思路): [`AnotherPalindromePartitioning_131.java`](src/search/AnotherPalindromePartitioning_131.java)
     

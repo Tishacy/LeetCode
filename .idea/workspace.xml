@@ -11,10 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/search/PalindromePartitioning_131.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search/PalindromePartitioning_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/search/AnotherPalindromePartitioning_131.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/AnotherPalindromePartitioning_131.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/search/RestoreIpAddress_93.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/search/RestoreIpAddress_93.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/RestoreIpAddress_93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/RestoreIpAddress_93.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +58,14 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.PalindromePartitioning_131">
-    <configuration name="CombinationSumII_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.CombinationSumII_40" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="search" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnotherPalindromePartitioning_131">
+    <configuration name="AnotherPalindromePartitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.AnotherPalindromePartitioning_131" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSum_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.CombinationSum_39" />
+    <configuration name="CombinationSumII_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.CombinationSumII_40" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnotherPalindromePartitioning_131" />
         <item itemvalue="Application.PalindromePartitioning_131" />
         <item itemvalue="Application.SubsetsII_90" />
         <item itemvalue="Application.Subsets_78" />
         <item itemvalue="Application.CombinationSumII_40" />
-        <item itemvalue="Application.CombinationSum_39" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +186,7 @@
       <workItem from="1608094308569" duration="10567000" />
       <workItem from="1608180971732" duration="15229000" />
       <workItem from="1608526764785" duration="2736000" />
-      <workItem from="1608612806502" duration="4546000" />
+      <workItem from="1608612806502" duration="6604000" />
     </task>
     <servers />
   </component>

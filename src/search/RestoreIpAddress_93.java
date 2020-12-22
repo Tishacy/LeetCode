@@ -65,11 +65,11 @@ public class RestoreIpAddress_93 {
         return combinatios;
     }
 
-    private void backTracking(List<String> path, List<String> combinatios, String s) {
+    private void backTracking(List<String> path, List<String> combinations, String s) {
         String curStr = String.join("", path);
         // 获取到了一个完整的路径，添加到 combinations 中
         if (curStr.length() == s.length() && path.size() == 4) {
-            combinatios.add(String.join(".", path));
+            combinations.add(String.join(".", path));
             return;
         }
         // IP 中最多只有 4 个段落，因此如果当前 path 中已经有 4 个段落
@@ -86,7 +86,7 @@ public class RestoreIpAddress_93 {
                 continue;
             }
             path.add(nextIpPiece);
-            backTracking(path, combinatios, s);
+            backTracking(path, combinations, s);
             // 当获取到一个完整的路径之后，路径回溯到上一个状态，继续搜索。
             path.remove(path.size() - 1);
         }
