@@ -11,10 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/SingletonPattern_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/FindRepeatNumber_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton5$InnerSingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/Singleton5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/SingletonPattern_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/SingletonPattern_2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +53,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
@@ -62,13 +68,39 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonPattern_2">
+  <component name="RunManager" selected="Application.FindRepeatNumber_3">
     <configuration name="AnotherPalindromePartitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="search.AnotherPalindromePartitioning_131" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch_704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearch_704" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindRepeatNumber_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.FindRepeatNumber_3" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,52 +134,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubsetsII_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.SubsetsII_90" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subsets_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.Subsets_78" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindRepeatNumber_3" />
+        <item itemvalue="Application.BinarySearch_704" />
         <item itemvalue="Application.SingletonPattern_2" />
         <item itemvalue="Application.AnotherPalindromePartitioning_131" />
         <item itemvalue="Application.PalindromePartitioning_131" />
-        <item itemvalue="Application.SubsetsII_90" />
-        <item itemvalue="Application.Subsets_78" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +196,8 @@
       <workItem from="1608647051492" duration="377000" />
       <workItem from="1608647451352" duration="704000" />
       <workItem from="1608648188070" duration="859000" />
-      <workItem from="1608649054744" duration="1763000" />
+      <workItem from="1608649054744" duration="3480000" />
+      <workItem from="1608707202598" duration="1759000" />
     </task>
     <servers />
   </component>

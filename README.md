@@ -84,3 +84,4 @@ LeetCode刷题记录，记录代码和做题思路。
 ## 剑指 Offer
 
 - 面试 2. 实现 Singleton 模式: [`SingletonPattern_2.java`](src/offer/SingletonPattern_2.java)
+- 面试 3. 数组中重复的数字: [`FindRepeatNumber_3.java`](src/offer/FindRepeatNumber_3.java)
