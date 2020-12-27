@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/RebuildBinaryTree_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/ReversePrint_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/ReversePrint_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/RebuildBinaryTree_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/RebuildBinaryTree_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +188,7 @@
       <workItem from="1608647451352" duration="704000" />
       <workItem from="1608648188070" duration="859000" />
       <workItem from="1608649054744" duration="3480000" />
-      <workItem from="1608707202598" duration="21446000" />
+      <workItem from="1608707202598" duration="21853000" />
     </task>
     <servers />
   </component>

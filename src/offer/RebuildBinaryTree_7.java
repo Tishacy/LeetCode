@@ -70,7 +70,6 @@ public class RebuildBinaryTree_7 {
         if (is == ie) {
             // 如果该子树的范围中只有一个节点，即没有孩子节点
             // 那么这个节点就是根节点，直接返回它
-            return root;
         } else {
             // 递归寻找该子树的左左子树的根节点，
             // 和该子树的右子树的根节点
@@ -78,9 +77,9 @@ public class RebuildBinaryTree_7 {
             int leftTreeSize = inorderRootIndex - is;
             int rightTreeSize = ie - inorderRootIndex;
             root.left = getSubTreeRoot(preorder, ps+1, ps+leftTreeSize, inorder, inorderRootIndex-leftTreeSize, inorderRootIndex-1);
-            root.right = getSubTreeRoot(preorder, ps+leftTreeSize+1, ps+leftTreeSize+rightTreeSize, inorder, inorderRootIndex+1, inorderRootIndex+rightTreeSize);
-            return root;
+            root.right = getSubTreeRoot(preorder, ps+leftTreeSize+1, pe, inorder, inorderRootIndex+1, inorderRootIndex+rightTreeSize);
         }
+        return root;
     }
 
     public class TreeNode {
