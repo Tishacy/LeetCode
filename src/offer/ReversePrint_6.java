@@ -23,6 +23,27 @@ public class ReversePrint_6 {
     }
 
     /**
+     * 从尾到头生成链表中的数值数组
+     * @param head
+     * @return
+     */
+    public int[] reversePrint(ListNode head) {
+        int len = 0;
+        ListNode curNode = head;
+        while (curNode != null) {
+            curNode = curNode.next;
+            len++;
+        }
+        int[] reverseVals = new int[len];
+        curNode = head;
+        for (int i=0; i<reverseVals.length; i++) {
+            reverseVals[len-1-i] = curNode.val;
+            curNode = curNode.next;
+        }
+        return reverseVals;
+    }
+
+    /**
      * 链表节点
      */
     public static class ListNode {
@@ -52,26 +73,5 @@ public class ReversePrint_6 {
         }
         curNode.next = null;
         return head;
-    }
-
-    /**
-     * 从尾到头生成链表中的数值数组
-     * @param head
-     * @return
-     */
-    public int[] reversePrint(ListNode head) {
-        int len = 0;
-        ListNode curNode = head;
-        while (curNode != null) {
-            curNode = curNode.next;
-            len++;
-        }
-        int[] reverseVals = new int[len];
-        curNode = head;
-        for (int i=0; i<reverseVals.length; i++) {
-            reverseVals[len-1-i] = curNode.val;
-            curNode = curNode.next;
-        }
-        return reverseVals;
     }
 }
