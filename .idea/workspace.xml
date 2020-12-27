@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/FindNmberIn2DArray_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/ReplaceSpace_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search/PalindromePartitioning_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/PalindromePartitioning_131.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +61,7 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindNmberIn2DArray_4">
-    <configuration name="AnotherPalindromePartitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.AnotherPalindromePartitioning_131" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReplaceSpace_5">
     <configuration name="BinarySearch_704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearch_704" />
       <module name="LeetCode" />
@@ -115,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReplaceSpace_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.ReplaceSpace_5" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingletonPattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="offer.SingletonPattern_2" />
       <module name="LeetCode" />
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplaceSpace_5" />
         <item itemvalue="Application.FindNmberIn2DArray_4" />
         <item itemvalue="Application.FindRepeatNumber_3" />
         <item itemvalue="Application.BinarySearch_704" />
         <item itemvalue="Application.SingletonPattern_2" />
-        <item itemvalue="Application.AnotherPalindromePartitioning_131" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +190,7 @@
       <workItem from="1608647451352" duration="704000" />
       <workItem from="1608648188070" duration="859000" />
       <workItem from="1608649054744" duration="3480000" />
-      <workItem from="1608707202598" duration="13508000" />
+      <workItem from="1608707202598" duration="16106000" />
     </task>
     <servers />
   </component>
