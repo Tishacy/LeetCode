@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/offer/RebuildBinaryTree_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/RebuildBinaryTree_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/ClimbingStairs_70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +61,13 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RebuildBinaryTree_7">
-    <configuration name="FindNmberIn2DArray_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.FindNmberIn2DArray_4" />
+  <component name="RunManager" selected="Application.ClimbingStairs_70">
+    <configuration name="ClimbingStairs_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.ClimbingStairs_70" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindRepeatNumber_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.FindRepeatNumber_3" />
+    <configuration name="FindNmberIn2DArray_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.FindNmberIn2DArray_4" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbingStairs_70" />
         <item itemvalue="Application.RebuildBinaryTree_7" />
         <item itemvalue="Application.ReversePrint_6" />
         <item itemvalue="Application.ReplaceSpace_5" />
         <item itemvalue="Application.FindNmberIn2DArray_4" />
-        <item itemvalue="Application.FindRepeatNumber_3" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +190,7 @@
       <workItem from="1608647451352" duration="704000" />
       <workItem from="1608648188070" duration="859000" />
       <workItem from="1608649054744" duration="3480000" />
-      <workItem from="1608707202598" duration="21853000" />
+      <workItem from="1608707202598" duration="28509000" />
     </task>
     <servers />
   </component>
