@@ -77,12 +77,12 @@ public class ClimbingStairs_70 {
         if (n <= 1) {
             return 1;
         }
-        int first = 1, second = 1, res = first + second;
-        for (int i=2; i<n; i++) {
+        int first = 1, second = 1;
+        for (int i=2; i<=n; i++) {
+            int res = first + second;
             first = second;
             second = res;
-            res = first + second;
         }
-        return res;
+        return second;
     }
 }
