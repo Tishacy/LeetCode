@@ -39,7 +39,8 @@ public class HouseRobberII_213 {
 
     /**
      * 思路：动态规划 + 滚动数组
-     * 该题目的思路与 {@link HouseRobber_198} 几乎一样，只不过多了一点就是，首和尾不能同时被偷。
+     * 该题目的思路与 {@link HouseRobber_198} 几乎一样，只不过多了一点就是，
+     * 首和尾不能同时被偷。
      * 时间复杂度: O(N)
      * 空间复杂度: O(1)
      * @param nums

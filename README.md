@@ -86,6 +86,8 @@ LeetCode刷题记录，记录代码和做题思路。
         - 70\. 爬楼梯: [`ClimbingStairs_70.java`](src/dp/ClimbingStairs_70.java)
         - 198\. 打家劫舍: [`HouseRobber_198.java`](src/dp/HouseRobber_198.java)
         - 213\. 打家劫舍II: [`HouseRobberII_213.java`](src/dp/HouseRobberII_213.java)
+        - 62\. 不同路径: [`UniquePaths_62.java`](src/dp/UniquePaths_62.java)
+        - 64\. 最小路径和: [`MinPathSum_64.java`](src/dp/MinPathSum_64.java)
 
 ## 剑指 Offer
 
