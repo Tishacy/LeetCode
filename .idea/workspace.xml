@@ -11,12 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/MinPathSum_64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/UniquePaths_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/NextNodeInBinaryTree_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/dp/HouseRobberII_213.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/dp/HouseRobberII_213.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/HouseRobberII_213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/HouseRobberII_213.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinPathSum_64">
+  <component name="RunManager" selected="Application.NextNodeInBinaryTree_8">
     <configuration name="ClimbingStairs_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dp.ClimbingStairs_70" />
       <module name="LeetCode" />
@@ -91,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRobber_198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.HouseRobber_198" />
+    <configuration name="MinPathSum_64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.MinPathSum_64" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinPathSum_64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.MinPathSum_64" />
+    <configuration name="NextNodeInBinaryTree_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.NextNodeInBinaryTree_8" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +127,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextNodeInBinaryTree_8" />
         <item itemvalue="Application.MinPathSum_64" />
         <item itemvalue="Application.UniquePaths_62" />
         <item itemvalue="Application.HouseRobberII_213" />
         <item itemvalue="Application.ClimbingStairs_70" />
-        <item itemvalue="Application.HouseRobber_198" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +191,8 @@
       <workItem from="1608648188070" duration="859000" />
       <workItem from="1608649054744" duration="3480000" />
       <workItem from="1608707202598" duration="35362000" />
-      <workItem from="1609728406595" duration="4485000" />
+      <workItem from="1609728406595" duration="4867000" />
+      <workItem from="1609733798535" duration="2126000" />
     </task>
     <servers />
   </component>
