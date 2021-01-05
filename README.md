@@ -88,6 +88,7 @@ LeetCode刷题记录，记录代码和做题思路。
         - 213\. 打家劫舍II: [`HouseRobberII_213.java`](src/dp/HouseRobberII_213.java)
         - 62\. 不同路径: [`UniquePaths_62.java`](src/dp/UniquePaths_62.java)
         - 64\. 最小路径和: [`MinPathSum_64.java`](src/dp/MinPathSum_64.java)
+        - 303\. 区域和检索-数组不可变: [`NumArray_303.java`](src/dp/NumArray_303.java)
 
 ## 剑指 Offer
 
