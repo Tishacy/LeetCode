@@ -11,11 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/NumArray_303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/ArithmeticSlices_413.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/NextNodeInBinaryTree_8$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/NextNodeInBinaryTree_8$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/offer/NextNodeInBinaryTree_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/offer/NextNodeInBinaryTree_8.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +61,9 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumArray_303">
-    <configuration name="HouseRobberII_213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.HouseRobberII_213" />
+  <component name="RunManager" selected="Application.ArithmeticSlices_413">
+    <configuration name="ArithmeticSlices_413" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.ArithmeticSlices_413" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticSlices_413" />
         <item itemvalue="Application.NumArray_303" />
         <item itemvalue="Application.NextNodeInBinaryTree_8" />
         <item itemvalue="Application.MinPathSum_64" />
         <item itemvalue="Application.UniquePaths_62" />
-        <item itemvalue="Application.HouseRobberII_213" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +195,7 @@
       <workItem from="1608707202598" duration="35362000" />
       <workItem from="1609728406595" duration="4867000" />
       <workItem from="1609733798535" duration="2209000" />
-      <workItem from="1609815282720" duration="1619000" />
+      <workItem from="1609815282720" duration="2241000" />
     </task>
     <servers />
   </component>
