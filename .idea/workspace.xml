@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/IntegerBreak_343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/PerfectSquares_279.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -61,7 +61,7 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntegerBreak_343">
+  <component name="RunManager" selected="Application.PerfectSquares_279">
     <configuration name="ArithmeticSlices_413" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dp.ArithmeticSlices_413" />
       <module name="LeetCode" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextNodeInBinaryTree_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.NextNodeInBinaryTree_8" />
+    <configuration name="NumArray_303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.NumArray_303" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumArray_303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.NumArray_303" />
+    <configuration name="PerfectSquares_279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.PerfectSquares_279" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectSquares_279" />
         <item itemvalue="Application.IntegerBreak_343" />
         <item itemvalue="Application.CQueue_9" />
         <item itemvalue="Application.ArithmeticSlices_413" />
         <item itemvalue="Application.NumArray_303" />
-        <item itemvalue="Application.NextNodeInBinaryTree_8" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,7 @@
       <workItem from="1609728406595" duration="4867000" />
       <workItem from="1609733798535" duration="2209000" />
       <workItem from="1609815282720" duration="4490000" />
-      <workItem from="1609903144414" duration="1534000" />
+      <workItem from="1609903144414" duration="4370000" />
     </task>
     <servers />
   </component>
