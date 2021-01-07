@@ -102,3 +102,4 @@ LeetCode刷题记录，记录代码和做题思路。
 - 面试 7. 重建二叉树: [`RebuildBinaryTree_7.java`](src/offer/RebuildBinaryTree_7.java)
 - 面试 8. 二叉树的下一个节点: [`NextNodeInBinaryTree_8.java`](src/offer/NextNodeInBinaryTree_8.java)
 - 面试 9. 用两个栈实现队列: [`CQueue_9.java`](src/offer/CQueue_9.java)
+- 面试 10-I. 斐波那契数列: [`Fibonacci_10.java`](src/offer/Fibonacci_10.java)
