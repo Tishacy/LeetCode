@@ -13,6 +13,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 392\. 判断子序列: [`IsSubsequence_392.java`](src/twopointer/IsSubsequence_392.java)
     - 524\. 通过删除字母匹配到字典里最长单词: [`LongestWordInDictionaryThroughDeleting_524.java`](src/twopointer/LongestWordInDictionaryThroughDeleting_524.java)
     - 11\. 盛最多水的容器: [`ContainerWithMostWater_11.java`](src/twopointer/ContainerWithMostWater_11.java)
+    
 - [排序](src/sort)
     - 经典排序算法: [`Sort.java`](src/sort/Sort.java)
         - 冒泡排序: `bubbleSort`
@@ -26,6 +27,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 347\. 前 K 个高频元素: [`TopKFrequentElements_347.java`](src/sort/TopKFrequentElements_347.java)
     - 451\. 根据字符出现频率排序: [`SortCharactersByFrequency_451.java`](src/sort/SortCharactersByFrequency_451.java)
     - 75\. 颜色分类: [`SortColors_75.java`](src/sort/SortColors_75.java)
+    
 - [贪心算法](src/greedy)
     - 经典贪心问题: [`Greedy.java`](src/greedy/Greedy.java)
     - 455\. 分发饼干: [`AssignCookies_455.java`](src/greedy/AssignCookies_455.java)
@@ -94,6 +96,8 @@ LeetCode刷题记录，记录代码和做题思路。
     - 91\. 解码方法: [`DecodeWays_91.java`](src/dp/DecodeWays_91.java)
     - 300\. 最长递增子序列：[`LongestIncreasingSubsequence_300.java`](src/dp/LongestIncreasingSubsequence_300.java)
     - 646\. 最长数对链: [`MaximumLengthOfPairChain_646.java`](src/dp/MaximumLengthOfPairChain_646.java)
+    - 376\. 摆动序列: [`WiggleSubsequence_376`](src/dp/WiggleSubsequence_376.java)
+
 
 ## 剑指 Offer
 

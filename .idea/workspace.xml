@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4445e8-539f-4ead-aa94-f1224feb852f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/MaximumLengthOfPairChain_646.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/WiggleSubsequence_376.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -61,7 +61,7 @@
       <recent name="search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumLengthOfPairChain_646">
+  <component name="RunManager" selected="Application.WiggleSubsequence_376">
     <configuration name="Fibonacci_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="offer.Fibonacci_10" />
       <module name="LeetCode" />
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectSquares_279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.PerfectSquares_279" />
+    <configuration name="WiggleSubsequence_376" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.WiggleSubsequence_376" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WiggleSubsequence_376" />
         <item itemvalue="Application.MaximumLengthOfPairChain_646" />
         <item itemvalue="Application.LongestIncreasingSubsequence_300" />
         <item itemvalue="Application.NumWays_10" />
         <item itemvalue="Application.Fibonacci_10" />
-        <item itemvalue="Application.PerfectSquares_279" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1609903144414" duration="4945000" />
       <workItem from="1609996936000" duration="6968000" />
       <workItem from="1611629948339" duration="991000" />
-      <workItem from="1611711326687" duration="2343000" />
+      <workItem from="1611711326687" duration="5177000" />
     </task>
     <servers />
   </component>
