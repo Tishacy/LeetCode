@@ -93,6 +93,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 279\. 完全平方数: [`PerfectSquares_279.java`](src/dp/PerfectSquares_279.java)
     - 91\. 解码方法: [`DecodeWays_91.java`](src/dp/DecodeWays_91.java)
     - 300\. 最长递增子序列：[`LongestIncreasingSubsequence_300.java`](src/dp/LongestIncreasingSubsequence_300.java)
+    - 646\. 最长数对链: [`MaximumLengthOfPairChain_646.java`](src/dp/MaximumLengthOfPairChain_646.java)
 
 ## 剑指 Offer
 
