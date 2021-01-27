@@ -97,7 +97,7 @@ LeetCode刷题记录，记录代码和做题思路。
     - 300\. 最长递增子序列：[`LongestIncreasingSubsequence_300.java`](src/dp/LongestIncreasingSubsequence_300.java)
     - 646\. 最长数对链: [`MaximumLengthOfPairChain_646.java`](src/dp/MaximumLengthOfPairChain_646.java)
     - 376\. 摆动序列: [`WiggleSubsequence_376`](src/dp/WiggleSubsequence_376.java)
-
+    - 1143. 最长公共子序列: [`LongestCommonSubsequence_1143.java`](src/dp/LongestCommonSubsequence_1143.java)
 
 ## 剑指 Offer
 
