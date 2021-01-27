@@ -91,6 +91,8 @@ LeetCode刷题记录，记录代码和做题思路。
     - 413\. 等差数列划分: [`ArithmeticSlices_413.java`](src/dp/ArithmeticSlices_413.java)
     - 343\. 整数拆分: [`IntegerBreak_343.java`](src/dp/IntegerBreak_343.java)
     - 279\. 完全平方数: [`PerfectSquares_279.java`](src/dp/PerfectSquares_279.java)
+    - 91\. 解码方法: [`DecodeWays_91.java`](src/dp/DecodeWays_91.java)
+    - 300\. 最长递增子序列：[`LongestIncreasingSubsequence_300.java`](src/dp/LongestIncreasingSubsequence_300.java)
 
 ## 剑指 Offer
 
